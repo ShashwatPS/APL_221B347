@@ -1,7 +1,7 @@
 public class question1 {
 public static void main(String [] argv){
    Juet.setage(20);
-   Juet.setname("Priyanshu Jain");
+   Juet.setname("Priyanshu Rajak");
    System.out.println(Juet.getname());
    System.out.println(Juet.getage());
 }    
