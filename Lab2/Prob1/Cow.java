@@ -1,6 +1,6 @@
 class Cow extends Animal {
     @Override
     public void makeVoice() {
-        System.out.println("Moo");
+        System.out.println("Cow says Mooooooo");
     }
 }
