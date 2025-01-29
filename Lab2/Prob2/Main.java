@@ -45,6 +45,6 @@ public class Main {
         System.out.println();
 
         Voice2 cat = new CatVoice();
-        cat.templateMethod();  // Enforces correct order
+        cat.templateMethod();   
     }
 }
