@@ -1,16 +1,13 @@
 abstract class Voice2 {
-    // Template Method enforcing the correct sequence
     public final void templateMethod() {
         prepareVoice();
         hear();
     }
 
-    // Abstract methods to be implemented by subclasses
     protected abstract void prepareVoice();
     protected abstract void hear();
 }
 
-// Example subclass for Dog
 class DogVoice extends Voice2 {
     @Override
     protected void prepareVoice() {
@@ -23,7 +20,6 @@ class DogVoice extends Voice2 {
     }
 }
 
-// Example subclass for Cat
 class CatVoice extends Voice2 {
     @Override
     protected void prepareVoice() {
@@ -36,11 +32,10 @@ class CatVoice extends Voice2 {
     }
 }
 
-// Main class to test the implementation
 public class Main {
     public static void main(String[] args) {
         Voice2 dog = new DogVoice();
-        dog.templateMethod();  // Enforces correct order
+        dog.templateMethod();  
 
         System.out.println();
 
