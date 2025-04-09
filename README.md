@@ -63,4 +63,3 @@ For any inquiries or questions, feel free to reach out to me via email at [221b2
 
 ---
 
-Feel free to customize the content further or add more specific details about each lab!
