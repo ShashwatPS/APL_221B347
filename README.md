@@ -2,7 +2,7 @@
 
 ---
 
-# College Advanced Programming Lab 3 - Java Programs
+# Advanced Programming Lab 3 - Java Programs
 
 This repository contains Java programs submitted for the Advanced Programming Lab 3 at [Your College Name]. The goal of this lab is to demonstrate the use of advanced concepts in Java, including object-oriented programming, algorithms, data structures, and various other Java features.
 
