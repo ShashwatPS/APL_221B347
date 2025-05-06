@@ -36,7 +36,7 @@ To run these Java programs, make sure you have the following:
 1. **Clone the Repository**  
    Clone the repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/Priyanshu12-bit/APL3_221b283
+   git clone https://github.com/Priyanshu12-bit/APL_221b247
    ```
 
 2. **Navigate to the Lab Directory**  
